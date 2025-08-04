@@ -1,5 +1,7 @@
 # MINE_4210_ADL_202520
 ![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
+
+
 ![Course Banner](docs/images/banner.png)
 
 ## Overview
