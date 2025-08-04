@@ -1,4 +1,5 @@
 # MINE_4210_ADL_202520
+![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Course Banner](docs/images/banner.png)
 
 ## Overview
@@ -23,4 +24,3 @@ A repo for "Análisis de Deep Learning" at Universidad de los Andes. You'll find
    ```bash
    git clone https://github.com/yourusername/course-repo.git
 
-![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)
