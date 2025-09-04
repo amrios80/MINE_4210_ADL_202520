@@ -14,7 +14,7 @@ A repo for "Análisis de Deep Learning" at Universidad de los Andes. You'll find
 | 1   | [Lab 1: Tensorflow and Keras](labs/Laboratorio_1/) | 1 hour |
 | 2   | [Lab 2 - T1: Basic Neural Networks and Callbacks](labs/Laboratorio_2/) | 1 hour |
 | 3   | [Lab 3: CNN Neural Networks](labs/Laboratorio_3/) | 2 hours |
-| 4   | [Lab 4: CNN Neural Networks + fine tuning](labs/Laboratorio_4/) | 2 hours |
+| 4   | [Lab 4: CNN Neural Networks + Transfer Learning](labs/Laboratorio_4/) | 2 hours |
 | 5   | [Lab 5 - T2: CNN Neural Networks for Object Detection](labs/Laboratorio_5/) | 2 hours |
 | 6   | [Lab 6: Model Deployment](labs/Laboratorio_6/) | 3 hours |
 | 7   | [Lab 7 - T3: RNN Neural Networks + Word Embeddings](labs/Laboratorio_7/) | 2 hours |
